@@ -1,0 +1,7 @@
+---
+name: PacketHandlerAggregate
+version: 1.0.0
+main: Echore\PacketHandlerAggregate\Main
+api: 5.0.0
+src-namespace-prefix: Echore\PacketHandlerAggregate
+...
